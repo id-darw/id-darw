@@ -1,0 +1,1 @@
+DevOps Engineer with demonstrated working history in software industry. Passionately, focused on cutting-edge Cloud technologies, containers, and automation. Skilled in Cloud, Hybrid Cloud Infrastructure, Security, and Networking. Setting up fully automated CI/CD pipelines, leveraging container orchestration tools to host microservices, and implementing infrastructure as code.
